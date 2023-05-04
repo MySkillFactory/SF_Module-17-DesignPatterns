@@ -1,5 +1,6 @@
-﻿<h1>Модуль 17. Шаблоны и паттерны. GoF, SOLID. Часть 1</h1>
-<a href="https://github.com/SkillfactoryCoding/PatternsModule">Ещё примеры от SF</a>
+﻿<a href="https://github.com/SkillfactoryCoding/PatternsModule">Ещё примеры от SF</a>
+<br>
+<h1>Модуль 17. Шаблоны и паттерны. GoF, SOLID. Часть 1</h1>
 <b>Основные принципы разработки:</b>
 <br>
  <br>- <b>KISS («Keep it simple, stupid»)</b>. Данный принцип, сформулированный в ВМС США в 1960 году, гласит, что чем системы проще, тем стабильнее и надежнее они работают.
